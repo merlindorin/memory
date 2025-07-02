@@ -12,7 +12,7 @@ Each memory is stored as a file at root level with an easy to find filename. In 
 
 - Metadata header (YAML front matter):
   - title: The title of the memory
-  - date: Creation date in YYYY-MM-DD format
+  - date: Creation date in YYYY-MM-DD format (IMPORTANT: Use the actual current date from the environment, not a hardcoded or incorrect date)
   - keywords: Comma-separated list of relevant keywords
 - Quick quote using ">" that abstract quickly the memory (one line or two)
 - Table of content (generated)

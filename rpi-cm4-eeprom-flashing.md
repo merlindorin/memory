@@ -1,6 +1,6 @@
 ---
 title: Flashing Raspberry Pi CM4 EEPROM with CM4-NANO-B Board
-date: 2025-01-02
+date: 2025-07-02
 keywords: raspberry pi, cm4, compute module 4, eeprom, flashing, cm4-nano-b, rpiboot
 ---
 

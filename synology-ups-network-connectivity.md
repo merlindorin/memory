@@ -1,6 +1,6 @@
 ---
 title: Synology UPS Network Connectivity
-date: 2025-01-02
+date: 2025-07-01
 keywords: synology, ups, nut, network, monuser, secret, nas, backup-power
 ---
 
