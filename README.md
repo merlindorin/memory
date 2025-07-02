@@ -2,7 +2,15 @@
 
 This repository stores various technical memories and solutions I want to capture.
 
-## Memories
+## Memories by Date
+
+### 2025
+
+#### July
+- **2025-07-02**: [Flashing Raspberry Pi CM4 EEPROM with CM4-NANO-B Board](rpi-cm4-eeprom-flashing.md) - Simple USB-C based flashing process for CM4 modules
+- **2025-07-01**: [Synology UPS Network Connectivity](synology-ups-network-connectivity.md) - Workaround for connecting Synology NAS to external NUT servers
+
+## Memories by Category
 
 ### Hardware
 - [Flashing Raspberry Pi CM4 EEPROM with CM4-NANO-B Board](rpi-cm4-eeprom-flashing.md) - Simple USB-C based flashing process for CM4 modules

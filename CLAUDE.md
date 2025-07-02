@@ -25,7 +25,10 @@ Each memory is stored as a file at root level with an easy to find filename. In 
 
 - Memory files are stored at the root level with descriptive filenames (e.g., `synology-ups-network-connectivity.md`)
 - Screenshots and other media assets should be stored in the `assets/` folder
-- The main `README.md` should be updated with each new memory entry, organized by category
+- The main `README.md` should be updated with each new memory entry:
+  - Add entries to the "Memories by Date" section, grouped by year and month
+  - Also maintain the "Memories by Category" section for topic-based navigation
+  - Include the date in the chronological listing (format: **YYYY-MM-DD**)
 - When adding images to memory files, reference them as `assets/filename.png`
 
 ## Development Setup
