@@ -1,3 +1,9 @@
+---
+title: Synology UPS Network Connectivity
+date: 2025-01-02
+keywords: synology, ups, nut, network, monuser, secret, nas, backup-power
+---
+
 # Synology UPS Network Connectivity
 
 > Synology NAS can only use UPS connected directly or through another Synology device, but there's a workaround using default NUT credentials.
@@ -39,7 +45,7 @@ Here's an example configuration for `/etc/nut/upsd.users`:
 
 On the Synology side, configure the UPS settings as follows:
 
-![Synology UPS Configuration](synology-ups-config-screenshot.png)
+![Synology UPS Configuration](assets/synology-ups-config-screenshot.png)
 
 Key settings:
 - **Enable UPS support**: Checked

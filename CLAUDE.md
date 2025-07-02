@@ -10,12 +10,23 @@ This is a newly initialized project called "memory". This repository store vario
 
 Each memory is stored as a file at root level with an easy to find filename. In each memory, I have this structure:
 
+- Metadata header (YAML front matter):
+  - title: The title of the memory
+  - date: Creation date in YYYY-MM-DD format
+  - keywords: Comma-separated list of relevant keywords
 - Quick quote using ">" that abstract quickly the memory (one line or two)
 - Table of content (generated)
 - Problem
 - Solution
 - Mitigation (if no solution)
 - References
+
+## Project Structure
+
+- Memory files are stored at the root level with descriptive filenames (e.g., `synology-ups-network-connectivity.md`)
+- Screenshots and other media assets should be stored in the `assets/` folder
+- The main `README.md` should be updated with each new memory entry, organized by category
+- When adding images to memory files, reference them as `assets/filename.png`
 
 ## Development Setup
 
