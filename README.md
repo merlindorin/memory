@@ -7,6 +7,7 @@ This repository stores various technical memories and solutions I want to captur
 ### 2025
 
 #### July
+- **2025-07-04**: [Terminal Setup with iTerm2, Zsh, and Powerlevel10k](terminal-setup-iterm2-zsh.md) - Comprehensive terminal setup for macOS development
 - **2025-07-03**: [LLM Analog Clock Generation Bias - The 10:10 Problem](llm-analog-clock-generation-bias.md) - Training data bias causing LLMs to fail at generating clocks with correct time
 - **2025-07-03**: [Using Sharpie Gold Pen as Pottery Glaze Resist](pottery-glaze-resist-sharpie-gold.md) - Alternative glaze resist technique using Sharpie gold pens
 - **2025-07-02**: [Flashing Raspberry Pi CM4 EEPROM with CM4-NANO-B Board](rpi-cm4-eeprom-flashing.md) - Simple USB-C based flashing process for CM4 modules
@@ -19,6 +20,9 @@ This repository stores various technical memories and solutions I want to captur
 
 ### Crafts & DIY
 - [Using Sharpie Gold Pen as Pottery Glaze Resist](pottery-glaze-resist-sharpie-gold.md) - Alternative glaze resist technique using Sharpie gold pens
+
+### Development Tools
+- [Terminal Setup with iTerm2, Zsh, and Powerlevel10k](terminal-setup-iterm2-zsh.md) - Comprehensive terminal setup for macOS development
 
 ### Hardware
 - [Flashing Raspberry Pi CM4 EEPROM with CM4-NANO-B Board](rpi-cm4-eeprom-flashing.md) - Simple USB-C based flashing process for CM4 modules
