@@ -4,6 +4,11 @@ This repository stores various technical memories and solutions I want to captur
 
 ## Memories by Date
 
+### 2026
+
+#### January
+- **2026-01-01**: [Gratin de chayotes, poireaux et fregola](gratin-chayotes-poireaux-fregola.md) - Recette de gratin réconfortant avec béchamel à la muscade
+
 ### 2025
 
 #### July
@@ -20,6 +25,9 @@ This repository stores various technical memories and solutions I want to captur
 
 ### Crafts & DIY
 - [Using Sharpie Gold Pen as Pottery Glaze Resist](pottery-glaze-resist-sharpie-gold.md) - Alternative glaze resist technique using Sharpie gold pens
+
+### Cuisine
+- [Gratin de chayotes, poireaux et fregola](gratin-chayotes-poireaux-fregola.md) - Recette de gratin réconfortant avec béchamel à la muscade
 
 ### Development Tools
 - [Terminal Setup with iTerm2, Zsh, and Powerlevel10k](terminal-setup-iterm2-zsh.md) - Comprehensive terminal setup for macOS development
