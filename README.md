@@ -18,6 +18,9 @@ This repository stores various technical memories and solutions I want to captur
 - **2025-07-02**: [Flashing Raspberry Pi CM4 EEPROM with CM4-NANO-B Board](rpi-cm4-eeprom-flashing.md) - Simple USB-C based flashing process for CM4 modules
 - **2025-07-01**: [Synology UPS Network Connectivity](synology-ups-network-connectivity.md) - Workaround for connecting Synology NAS to external NUT servers
 
+#### January
+- **2025-01-01**: [Raïta à la coriandre](raita-coriandre.md) - Sauce fraîche au yaourt pour accompagner currys et plats épicés
+
 ## Memories by Category
 
 ### AI & Machine Learning
@@ -28,6 +31,7 @@ This repository stores various technical memories and solutions I want to captur
 
 ### Cuisine
 - [Gratin de chayotes, poireaux et fregola](gratin-chayotes-poireaux-fregola.md) - Recette de gratin réconfortant avec béchamel à la muscade
+- [Raïta à la coriandre](raita-coriandre.md) - Sauce fraîche au yaourt pour accompagner currys et plats épicés
 
 ### Development Tools
 - [Terminal Setup with iTerm2, Zsh, and Powerlevel10k](terminal-setup-iterm2-zsh.md) - Comprehensive terminal setup for macOS development
