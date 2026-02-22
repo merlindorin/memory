@@ -6,6 +6,9 @@ This repository stores various technical memories and solutions I want to captur
 
 ### 2026
 
+#### February
+- **2026-02-22**: [Chinese Five-Spice Powder (五香粉)](chinese-five-spice-powder.md) - Classic aromatic spice blend recipe with toasting instructions
+
 #### January
 - **2026-01-01**: [Gratin de chayotes, poireaux et fregola](gratin-chayotes-poireaux-fregola.md) - Recette de gratin réconfortant avec béchamel à la muscade
 
@@ -30,6 +33,7 @@ This repository stores various technical memories and solutions I want to captur
 - [Using Sharpie Gold Pen as Pottery Glaze Resist](pottery-glaze-resist-sharpie-gold.md) - Alternative glaze resist technique using Sharpie gold pens
 
 ### Cuisine
+- [Chinese Five-Spice Powder (五香粉)](chinese-five-spice-powder.md) - Classic aromatic spice blend recipe with toasting instructions
 - [Gratin de chayotes, poireaux et fregola](gratin-chayotes-poireaux-fregola.md) - Recette de gratin réconfortant avec béchamel à la muscade
 - [Raïta à la coriandre](raita-coriandre.md) - Sauce fraîche au yaourt pour accompagner currys et plats épicés
 
